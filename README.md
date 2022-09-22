@@ -5,10 +5,9 @@
 <br>
 
 
-<h2 dir="auto"><a id="user-content--intro" class="anchor" aria-hidden="true" href="#-intro"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="beers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f37b.png">👀 Demo</h2>
 
 
-<br>
+
 
 ## ⚡ Skills
 ___
@@ -19,7 +18,9 @@ ___
 - Node.js 로 서버를 구축했어요.
 - 데이터 베이스는 MongoDB를 사용했어요.
 
-
+<h2 dir="auto"><a id="user-content--intro" class="anchor" aria-hidden="true" href="#-intro"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="beers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f37b.png">👀 Demo</h2>
+<br>
+  
 |🏠 홈|🔍 상세|
 |---|---|
 |<img width="300" height="150" src="./gif/홈.gif">|<img width="300" height="150" src="./gif/상세.gif">|
@@ -28,7 +29,6 @@ ___
 |✒️ 등록|📒 회원가입|
 |<img width="300" height="150" src="./gif/등록.gif">|<img width="300" height="150" src="./gif/회원가입.gif">|
 
-<br>
 
 
 
